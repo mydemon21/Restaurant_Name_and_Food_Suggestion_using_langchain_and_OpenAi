@@ -20,8 +20,8 @@ This project uses LangChain and OpenAI to generate creative restaurant names and
 1. **Clone the repository**:
 
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-folder>
+    git clone https://github.com/mydemon21/Restaurant_Name_and_Food_Suggestion_using_langchain_and_OpenAi.git
+    cd Restaurant_Name_and_Food_Suggestion_using_langchain_and_OpenAi
     ```
 
 2. **Install dependencies**:
