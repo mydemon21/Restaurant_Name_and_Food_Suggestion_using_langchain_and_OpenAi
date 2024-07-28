@@ -94,5 +94,5 @@ Special thanks to the creators of Streamlit and LangChain for providing powerful
 
 ## Author
 
-Sajal Patel
+Sajal Patel @mydemon21
 
